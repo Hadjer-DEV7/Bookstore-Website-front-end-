@@ -16,7 +16,7 @@ The website features a clean interface, vibrant gradients, featured books, custo
 
 📸 Screenshots
 
-Home Page
+![Home Page]
 screenshots/Page 1.png
 
 Featured Books
