@@ -15,13 +15,11 @@ The website features a clean interface, vibrant gradients, featured books, custo
 -Clean HTML & CSS code
 📸 Screenshots
 Home Page
-
-(Insert screenshot here)
+screenshots/Page 1.png
 
 Featured Books
 
-(Insert screenshot here)
+screenshots/sales.png
 
 Login Page
-
-(Insert screenshot here)
+screenshots/Login.png
